@@ -25,4 +25,4 @@ redirect_from:
 * [cite_start]**Geospatial**: ArcGIS, QGIS, Google Earth Engine, Remote Sensing (InSAR)[cite: 17, 18].
 
 ---
-*Feel free to explore my portfolio or download my full [Curriculum Vitae](/files/CV_RaLanDoTuTrinh.pdf).*
+*Feel free to explore my portfolio or download my full [Curriculum Vitae](/files/CV_VinUni_RaLanDoTuTrinh.pdf).*
